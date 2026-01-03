@@ -1,0 +1,6 @@
+projek-website/
+├── index.html
+├── style.css
+└── img/
+    ├── logo.png
+    └── banner.jpg
